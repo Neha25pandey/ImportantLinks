@@ -8,3 +8,34 @@ https://www.linkedin.com/pulse/how-use-environment-files-env-react-app-muhammad-
 
 React-Contentful
 https://www.npmjs.com/package/react-contentful
+
+Information about contentful-
+
+https://blog.logrocket.com/using-contentful-with-react/
+
+https://www.contentful.com/developers/docs/javascript/tutorials/getting-started-with-react-and-contentful
+
+
+It is possible to integrate translation services like translation.com or smartlin .We can use these services to automatically push the translation
+
+
+
+A composable content platform meets the unique demands of digital content and all the teams that produce and work with it. Built with an API-first architecture,
+ a composable content platform orchestrates content from multiple sources and publishes it to any digital channel.
+ It ensures content is discoverable and reusable, provides tailored interfaces, and incorporates governance through role-based access management and workflows.
+ 
+ 
+ Hello people, I am sure you know React ,java, angular, springboot but do you like to add glimps on top of these technologies app,
+ Join me today on Lunch & Learn contentful session, see you at 11:30 am CST.
+ 
+ 
+ 
+ Sharing few javascript library that you can use to connect from your react application to contentful.
+ contentful.js     -    https://www.npmjs.com/package/contentful
+ 
+ react-contentful  -    https://www.npmjs.com/package/react-contentful
+ 
+ 
+
+
+ 
